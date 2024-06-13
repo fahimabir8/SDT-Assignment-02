@@ -1,0 +1,61 @@
+.search-box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.btn{
+    width: 100px;
+    height: 38px;    
+}
+nav{
+    background-color: #f2dd92;
+}
+
+.card{
+    align-items: center;
+    box-shadow: 4px 4px 8px gray;
+    margin-left: 4px;
+}
+.card-img{
+    height: 300px;
+    width: 300px;
+    margin-top:0px;
+}
+.player-section{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap:15px;
+}
+.cart-section{
+    box-shadow: 4px 4px 8px gray;
+    width: 30%;
+    text-align: center;
+    height: 50%;
+    
+    
+}
+.btn-card{
+    background-color: rgb(150, 88, 209);
+    margin: 10px;
+    color: white;
+}
+.foot-text{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+
+.foot-logo{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+footer{
+    background-color:#191A1F;
+    padding: 10px;
+    margin-top: 30px;
+}
